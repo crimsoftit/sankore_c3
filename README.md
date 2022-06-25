@@ -1,1 +1,1 @@
-# sankore_c3: RUST programming
+# Sankore Cohort 3: RUST programming

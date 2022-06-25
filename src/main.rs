@@ -1,6 +1,12 @@
 mod print;
+mod variables;
+mod types;
+mod conditionals;
 
 pub fn main() {
-    println!("aje, ");
     print::display();
+    variables::vars();
+
+    types::run();
+    conditionals::run_conditions();
 }
