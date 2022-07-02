@@ -65,6 +65,6 @@ pub fn main() {
     enums::run_enum();
 
     println!("              ");
-    println!("*** REFERENCES 'N POINTERS ***");
+    println!("*** REFERENCES 'N' POINTERS ***");
     references_n_pointers::run_refs();
 }
